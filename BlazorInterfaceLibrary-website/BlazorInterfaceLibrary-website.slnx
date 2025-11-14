@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BlazorInterfaceLibrary-website.AppHost/BlazorInterfaceLibrary-website.AppHost.csproj" />
+  <Project Path="BlazorInterfaceLibrary-website.ServiceDefaults/BlazorInterfaceLibrary-website.ServiceDefaults.csproj" />
+  <Project Path="BlazorInterfaceLibrary-website/BlazorInterfaceLibrary-website.csproj" />
+</Solution>

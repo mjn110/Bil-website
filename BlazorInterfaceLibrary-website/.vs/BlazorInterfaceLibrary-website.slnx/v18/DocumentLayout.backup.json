@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|c:\\users\\mohammad\\source\\repos\\blazorinterfacelibrary-website\\blazorinterfacelibrary-website\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|solutionrelative:blazorinterfacelibrary-website\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|c:\\users\\mohammad\\source\\repos\\blazorinterfacelibrary-website\\blazorinterfacelibrary-website\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|solutionrelative:blazorinterfacelibrary-website\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|c:\\users\\mohammad\\source\\repos\\blazorinterfacelibrary-website\\blazorinterfacelibrary-website\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|solutionrelative:blazorinterfacelibrary-website\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|c:\\users\\mohammad\\source\\repos\\blazorinterfacelibrary-website\\blazorinterfacelibrary-website\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|solutionrelative:blazorinterfacelibrary-website\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|c:\\users\\mohammad\\source\\repos\\blazorinterfacelibrary-website\\blazorinterfacelibrary-website\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54A94554-7673-7813-C6EA-7CAB35429EC5}|BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website.csproj|solutionrelative:blazorinterfacelibrary-website\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorInterfaceLibrary-website\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorInterfaceLibrary-website\\wwwroot\\index.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-14T00:43:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorInterfaceLibrary-website\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorInterfaceLibrary-website\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T00:20:27.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorInterfaceLibrary-website\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorInterfaceLibrary-website\\Pages\\Home.razor",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T00:18:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorInterfaceLibrary-website\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorInterfaceLibrary-website\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T00:17:31.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\App.razor",
+              "RelativeDocumentMoniker": "BlazorInterfaceLibrary-website\\App.razor",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\BlazorInterfaceLibrary-website\\BlazorInterfaceLibrary-website\\App.razor",
+              "RelativeToolTip": "BlazorInterfaceLibrary-website\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T00:17:20.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
